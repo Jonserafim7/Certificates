@@ -5,7 +5,7 @@ Certificates from courses and organizations I have earned.
 ### Scrimba - The Frontend Developer Career Path
 ![Frontend Career Path Certificate](Screenshot%202024-07-15%20221335.png)
 
-This career path goal was to become a job-ready frontend developer in less than six months.
+My goal in enrolling in this career path was to become a job-ready frontend developer in less than one year.
 
 The curriculum is curated by Mozilla MDN to ensure that it always aligns with the latest industry standards and best practices for modern frontend development, as outlined in their MDN Curriculum. It is based on extensive research into what new hires need to know to succeed in the industry.
 
