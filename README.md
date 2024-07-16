@@ -2,8 +2,8 @@
 Certificates from courses and organizations I have earned.
 
 ## Front-end development
-###Scrimba - Frontend developer carrer path
-![frontend career path certificate](relative/path/to/image.png)
+### Scrimba - Frontend developer carrer path
+![Frontend Career Path Certificate](Screenshot%202024-07-15%20221335.png)
 
 This career path aims to turn you into a job-ready frontend developer in less than six months.
 
