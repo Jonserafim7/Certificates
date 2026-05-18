@@ -3,7 +3,9 @@ Certificates from courses and organizations I have earned.
 
 ## Frontend development
 ### Scrimba - The Frontend Developer Career Path
-![Frontend Career Path Certificate](Screenshot%202024-07-15%20221335.png)
+[![Frontend Career Path Certificate](Screenshot%202024-07-15%20221335.png)](https://scrimba.com/certificate-cert2uNjfK9m1kvFEYSWskBBt6SUWJCbopQjg5v)
+
+[View Certificate](https://scrimba.com/certificate-cert2uNjfK9m1kvFEYSWskBBt6SUWJCbopQjg5v)
 
 My goal in enrolling in this career path was to become a job-ready frontend developer in less than one year.
 
@@ -44,16 +46,18 @@ The scripted experience provides structured guidance through a simulated custome
 - Amazon Relational Database Service
 
 ## Backend development
-### Rocketseat - Formação Node.js
+### Rocketseat - Node.js Training
 [![Node.js Certificate](Captura%20de%20tela%202026-05-18%20124052.png)](https://app.rocketseat.com.br/certificates/72be3981-5562-4631-be48-2af7a42bae78)
 
-**Sobre o curso**
-Nesta formação de Node.js, exploraremos tópicos cruciais para o desenvolvimento robusto de aplicações back-end, do zero até o deploy. Iremos aprofundar seus conhecimentos em testes, abordando desde os fundamentos de testes unitários até os testes end-to-end.
+[View Certificate](https://app.rocketseat.com.br/certificates/72be3981-5562-4631-be48-2af7a42bae78)
 
-Ao longo do curso, vocês se familiarizarão com tecnologias como Fastify, desenvolvendo uma API de Check-ins em academias, NestJS e conceitos fundamentais como SOLID e DDD no desenvolvimento da API de um Fórum. Explorando padrões de design, como o Factory Pattern e o Repository Pattern, para estruturar seu código de maneira eficiente.
+**About the course**
+In this Node.js training, we explore crucial topics for robust back-end application development, from scratch to deployment. It deepens your knowledge of testing, covering everything from the fundamentals of unit testing to end-to-end tests.
 
-**Detalhes**
-- **Horas de estudo:** Aprox. 73h
-- **Aulas:** 272 aulas em 36h 30min
-- **Nível de dificuldade:** Intermediário
-- **Atividades:** 5 desafios e 27 testes
+Throughout the course, you become familiar with technologies such as Fastify, developing a Gym Check-in API, NestJS, and fundamental concepts like SOLID and DDD while building a Forum API. It explores design patterns like the Factory Pattern and Repository Pattern to structure code efficiently.
+
+**Details**
+- **Study hours:** Approx. 73h
+- **Lessons:** 272 lessons in 36h 30min
+- **Difficulty level:** Intermediate
+- **Activities:** 5 challenges and 27 tests
