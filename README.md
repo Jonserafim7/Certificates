@@ -42,3 +42,18 @@ The scripted experience provides structured guidance through a simulated custome
 - Amazon Simple Storage Service
 - Amazon VPC
 - Amazon Relational Database Service
+
+## Backend development
+### Rocketseat - Formação Node.js
+[![Node.js Certificate](Captura%20de%20tela%202026-05-18%20124052.png)](https://app.rocketseat.com.br/certificates/72be3981-5562-4631-be48-2af7a42bae78)
+
+**Sobre o curso**
+Nesta formação de Node.js, exploraremos tópicos cruciais para o desenvolvimento robusto de aplicações back-end, do zero até o deploy. Iremos aprofundar seus conhecimentos em testes, abordando desde os fundamentos de testes unitários até os testes end-to-end.
+
+Ao longo do curso, vocês se familiarizarão com tecnologias como Fastify, desenvolvendo uma API de Check-ins em academias, NestJS e conceitos fundamentais como SOLID e DDD no desenvolvimento da API de um Fórum. Explorando padrões de design, como o Factory Pattern e o Repository Pattern, para estruturar seu código de maneira eficiente.
+
+**Detalhes**
+- **Horas de estudo:** Aprox. 73h
+- **Aulas:** 272 aulas em 36h 30min
+- **Nível de dificuldade:** Intermediário
+- **Atividades:** 5 desafios e 27 testes
