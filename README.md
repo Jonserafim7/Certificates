@@ -20,5 +20,25 @@ The MDN Curriculum provides a structured guide to the essential skills and pract
 
 Last but not least, MDN also features a vibrant contributor community, responsible for helping to keep MDN maintained as well as thousands of pages of volunteer-contributed translations.
 
+## Cloud Computing
+### AWS SimuLearn: Cloud Practitioner Learning Plan
+![AWS SimuLearn Certificate](Captura%20de%20tela%202026-05-18%20123440.png)
 
+**Goal**
+Develop a solid foundation in AWS cloud concepts and services
 
+**Description**
+The AWS SimuLearn: Cloud Practitioner Learning Plan delivers career-focused training in AWS cloud concepts and services through immersive simulations and 12 hands-on lab exercises that build practical skills.
+
+You will gain fundamental knowledge of AWS Cloud computing principles, common use cases, security best practices, billing and pricing models, and business impacts of cloud adoption—essential for career development in cloud technology.
+
+You will develop job-ready competencies by building basic solutions using AWS services such as compute, networking, databases, and security services. As you progress through guided learning, you will establish a solid foundation in AWS cloud concepts applicable to real-world career scenarios. Before you begin with AWS SimuLearn, you can choose between a scripted dialog experience or a dynamic dialogue mode powered by generative AI agents.
+
+The scripted experience provides structured guidance through a simulated customer meeting, while the open dialog mode allows you to develop practical communication skills by chatting with a virtual customer powered by generative AI.
+
+**AWS Services**
+- Amazon Elastic Compute Cloud
+- Amazon EC2 Auto Scaling
+- Amazon Simple Storage Service
+- Amazon VPC
+- Amazon Relational Database Service
